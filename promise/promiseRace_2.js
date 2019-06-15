@@ -1,4 +1,4 @@
-// Promise.all lets you know when either all input promises have fulfilled or when one of them rejects.
+// Promise.race lets you know when one of the promses fulfilled or rejected.
 
 (
     async () => {
